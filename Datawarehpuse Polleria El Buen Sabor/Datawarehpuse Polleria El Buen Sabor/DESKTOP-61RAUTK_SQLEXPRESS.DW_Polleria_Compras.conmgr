@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-61RAUTK_SQLEXPRESS.DW_Polleria_Compras"
+  DTS:DTSID="{A4B13190-3A42-463D-9B5C-65D1B98FA70C}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-61RAUTK\SQLEXPRESS;Initial Catalog=DW_Polleria_Compras;Integrated Security=True;TrustServerCertificate=True;Application Name=SSIS-Datawarehpuse Polleria El Buen Sabor-{A4B13190-3A42-463D-9B5C-65D1B98FA70C}DESKTOP-61RAUTK\SQLEXPRESS.DW_Polleria_Compras;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
